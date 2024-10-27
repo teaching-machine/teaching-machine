@@ -10,8 +10,8 @@ from . import githf
 import yaml
 
 # Constants
-MACHINE_ORGANIZATION_NAME = 'name-of-the-machine-organization'  # or other organization
-PRIVATE_REPO_WITH_TEXT = 'name_of_the_machine'
+MACHINE_ORGANIZATION_NAME = 'teaching-machine'  # or other organization
+PRIVATE_REPO_WITH_TEXT = 'teaching_machine'
 
 # Location of the file that is running
 WHERE_ARE_WE = os.path.dirname(__file__)
