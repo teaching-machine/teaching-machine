@@ -1,10 +1,10 @@
-# Name of Machine
-Explanation of the Machine
+# Teaching Machine
+Teaching machine
 <pre>
-  pip install name-of-the-machine
+  pip install teaching-machine
 </pre>
 Then:
 ```Python
   # Python
-  import name_of_the_machine
+  import teaching_machine
 ```
